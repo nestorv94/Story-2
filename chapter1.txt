@@ -1,1 +1,2 @@
 This is a story for my coding project
+This is a great story.
